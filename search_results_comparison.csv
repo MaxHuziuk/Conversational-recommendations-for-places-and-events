@@ -1,0 +1,61 @@
+query_id,query,method,rank,poi_id,name,category,score,reference_relevance,total_relevant_in_corpus,osm_url,analysis
+work_cafe,Уютное кафе для работы,metadata,1,way/857873932,Юг,cafe,0.15011888809805118,1,10,https://www.openstreetmap.org/way/857873932,5/5 relevant results
+work_cafe,Уютное кафе для работы,metadata,2,node/11425792243,Plim Coffee,cafe,0.1376802191636847,1,10,https://www.openstreetmap.org/node/11425792243,5/5 relevant results
+work_cafe,Уютное кафе для работы,metadata,3,node/10576689469,CofeFest,cafe,0.13184647374846542,1,10,https://www.openstreetmap.org/node/10576689469,5/5 relevant results
+work_cafe,Уютное кафе для работы,metadata,4,node/5643723647,Costa,cafe,0.12940827571234798,1,10,https://www.openstreetmap.org/node/5643723647,5/5 relevant results
+work_cafe,Уютное кафе для работы,metadata,5,node/9844166488,Zefir,cafe,0.12119290953789273,1,10,https://www.openstreetmap.org/node/9844166488,5/5 relevant results
+work_cafe,Уютное кафе для работы,enriched,1,way/857873932,Юг,cafe,0.27836558011332374,1,10,https://www.openstreetmap.org/way/857873932,5/5 relevant results
+work_cafe,Уютное кафе для работы,enriched,2,node/5643723647,Costa,cafe,0.2556869074840664,1,10,https://www.openstreetmap.org/node/5643723647,5/5 relevant results
+work_cafe,Уютное кафе для работы,enriched,3,node/10576689469,CofeFest,cafe,0.25537107053853614,1,10,https://www.openstreetmap.org/node/10576689469,5/5 relevant results
+work_cafe,Уютное кафе для работы,enriched,4,node/11425792243,Plim Coffee,cafe,0.24472308194595793,1,10,https://www.openstreetmap.org/node/11425792243,5/5 relevant results
+work_cafe,Уютное кафе для работы,enriched,5,node/7039315244,Cassette,cafe,0.24101219068414265,1,10,https://www.openstreetmap.org/node/7039315244,5/5 relevant results
+date,Романтическое место для свидания,metadata,1,node/2562927544,Романов Синема,cinema,0.18396320919391013,1,28,https://www.openstreetmap.org/node/2562927544,1/5 relevant results
+date,Романтическое место для свидания,metadata,2,node/288506766,Государственный Дарвиновский музей,museum,0.06978616631465744,0,28,https://www.openstreetmap.org/node/288506766,1/5 relevant results
+date,Романтическое место для свидания,metadata,3,way/31482144,Государственный геологический музей им. В. И. Вернадского,museum,0.0677314727860968,0,28,https://www.openstreetmap.org/way/31482144,1/5 relevant results
+date,Романтическое место для свидания,metadata,4,way/34845169,Научно-техническая библиотека НИУ МЭИ,library,0.06231930957245531,0,28,https://www.openstreetmap.org/way/34845169,1/5 relevant results
+date,Романтическое место для свидания,metadata,5,node/5643723647,Costa,cafe,0.047511284142245216,0,28,https://www.openstreetmap.org/node/5643723647,1/5 relevant results
+date,Романтическое место для свидания,enriched,1,node/3946173972,Стейк'S,restaurant,0.14329402231055705,1,28,https://www.openstreetmap.org/node/3946173972,5/5 relevant results
+date,Романтическое место для свидания,enriched,2,node/480056693,Наполеон,restaurant,0.14219149736504422,1,28,https://www.openstreetmap.org/node/480056693,5/5 relevant results
+date,Романтическое место для свидания,enriched,3,node/4751504618,Бестужевъ,restaurant,0.14152975579332122,1,28,https://www.openstreetmap.org/node/4751504618,5/5 relevant results
+date,Романтическое место для свидания,enriched,4,relation/85762,Малый театр,theatre,0.1414596012636855,1,28,https://www.openstreetmap.org/relation/85762,5/5 relevant results
+date,Романтическое место для свидания,enriched,5,node/2562927544,Романов Синема,cinema,0.14078409091976707,1,28,https://www.openstreetmap.org/node/2562927544,5/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,metadata,1,way/125674952,Дом-музей Щепкина,museum,0.06780194424172839,0,20,https://www.openstreetmap.org/way/125674952,2/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,metadata,2,way/29071109,Планета КВН,theatre,0.05408206360877546,0,20,https://www.openstreetmap.org/way/29071109,2/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,metadata,3,way/343180316,Мемориальный музей А. Н. Скрябина,museum,0.053969325242582515,0,20,https://www.openstreetmap.org/way/343180316,2/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,metadata,4,node/2564696412,Черетто,restaurant,0.05196590668867462,1,20,https://www.openstreetmap.org/node/2564696412,2/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,metadata,5,node/9841073871,Granvillano,cafe,0.05055877624220541,1,20,https://www.openstreetmap.org/node/9841073871,2/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,enriched,1,node/2564696412,Черетто,restaurant,0.1045092257808191,1,20,https://www.openstreetmap.org/node/2564696412,5/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,enriched,2,node/4751504618,Бестужевъ,restaurant,0.09385258536488703,1,20,https://www.openstreetmap.org/node/4751504618,5/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,enriched,3,node/11368102090,The Бык,restaurant,0.09245709361805093,1,20,https://www.openstreetmap.org/node/11368102090,5/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,enriched,4,node/480056693,Наполеон,restaurant,0.09038203649463962,1,20,https://www.openstreetmap.org/node/480056693,5/5 relevant results
+friends_dinner,Недорогое место для ужина с друзьями,enriched,5,node/11360292830,Mimi,restaurant,0.09013223302787413,1,20,https://www.openstreetmap.org/node/11360292830,5/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,metadata,1,node/5216077221,Кино Окко,cinema,0.08322858030776216,0,5,https://www.openstreetmap.org/node/5216077221,0/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,metadata,2,node/7576068785,Art Future Gallery,museum,0.0587042610483298,0,5,https://www.openstreetmap.org/node/7576068785,0/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,metadata,3,node/11360292830,Mimi,restaurant,0.0567935364565551,0,5,https://www.openstreetmap.org/node/11360292830,0/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,metadata,4,node/1684243150,Театр им. Вл. Маяковского,theatre,0.05524532229616334,0,5,https://www.openstreetmap.org/node/1684243150,0/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,metadata,5,node/4751504618,Бестужевъ,restaurant,0.051600808652087694,0,5,https://www.openstreetmap.org/node/4751504618,0/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,enriched,1,relation/10303191,Фруктовый сад,park,0.11858488648988723,1,5,https://www.openstreetmap.org/relation/10303191,5/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,enriched,2,relation/10789215,Парк имени А. И. Герцена,park,0.11650734822350382,1,5,https://www.openstreetmap.org/relation/10789215,5/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,enriched,3,relation/2820009,Парк Братеевская Набережная,park,0.10992521125750254,1,5,https://www.openstreetmap.org/relation/2820009,5/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,enriched,4,relation/2081453,Крылатские холмы,park,0.1056011532786712,1,5,https://www.openstreetmap.org/relation/2081453,5/5 relevant results
+family_walk,Интересное место для прогулки с семьёй,enriched,5,relation/3419541,Ландшафтный заказник «Тёплый Стан»,park,0.09160531060599236,1,5,https://www.openstreetmap.org/relation/3419541,5/5 relevant results
+quiet_rest,Тихое место для отдыха,metadata,1,node/4751504618,Бестужевъ,restaurant,0.08034236489912137,0,15,https://www.openstreetmap.org/node/4751504618,0/5 relevant results
+quiet_rest,Тихое место для отдыха,metadata,2,node/2564696412,Черетто,restaurant,0.04556231302585618,0,15,https://www.openstreetmap.org/node/2564696412,0/5 relevant results
+quiet_rest,Тихое место для отдыха,metadata,3,node/11360292830,Mimi,restaurant,0.043842184965018044,0,15,https://www.openstreetmap.org/node/11360292830,0/5 relevant results
+quiet_rest,Тихое место для отдыха,metadata,4,node/10576689492,CofeFest,cafe,0.035871765135068324,0,15,https://www.openstreetmap.org/node/10576689492,0/5 relevant results
+quiet_rest,Тихое место для отдыха,metadata,5,relation/85762,Малый театр,theatre,0.031608844481969336,0,15,https://www.openstreetmap.org/relation/85762,0/5 relevant results
+quiet_rest,Тихое место для отдыха,enriched,1,way/161958791,Библиотека №51,library,0.12068987979501486,1,15,https://www.openstreetmap.org/way/161958791,5/5 relevant results
+quiet_rest,Тихое место для отдыха,enriched,2,relation/10303191,Фруктовый сад,park,0.11654237050059574,1,15,https://www.openstreetmap.org/relation/10303191,5/5 relevant results
+quiet_rest,Тихое место для отдыха,enriched,3,node/5056154819,Библиотека №16,library,0.11546536964501321,1,15,https://www.openstreetmap.org/node/5056154819,5/5 relevant results
+quiet_rest,Тихое место для отдыха,enriched,4,relation/10789215,Парк имени А. И. Герцена,park,0.11308760684357895,1,15,https://www.openstreetmap.org/relation/10789215,5/5 relevant results
+quiet_rest,Тихое место для отдыха,enriched,5,node/4801596128,Библиотека № 2 им. Ю.В. Трифонова,library,0.11088196997073908,1,15,https://www.openstreetmap.org/node/4801596128,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,metadata,1,relation/21039371,Центральный музей МВД России,museum,0.2698240001007885,1,10,https://www.openstreetmap.org/relation/21039371,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,metadata,2,relation/21039337,Московский государственный музей С. А. Есенина,museum,0.23543194956621802,1,10,https://www.openstreetmap.org/relation/21039337,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,metadata,3,node/288506766,Государственный Дарвиновский музей,museum,0.21963797956753459,1,10,https://www.openstreetmap.org/node/288506766,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,metadata,4,way/343180316,Мемориальный музей А. Н. Скрябина,museum,0.21074188242285122,1,10,https://www.openstreetmap.org/way/343180316,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,metadata,5,node/3502941745,Музей-квартира А.М. Васнецова,museum,0.20979224281799974,1,10,https://www.openstreetmap.org/node/3502941745,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,enriched,1,relation/21039371,Центральный музей МВД России,museum,0.32064557876646116,1,10,https://www.openstreetmap.org/relation/21039371,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,enriched,2,relation/21039337,Московский государственный музей С. А. Есенина,museum,0.2751687072086552,1,10,https://www.openstreetmap.org/relation/21039337,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,enriched,3,node/288506766,Государственный Дарвиновский музей,museum,0.2691855962637316,1,10,https://www.openstreetmap.org/node/288506766,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,enriched,4,way/125674952,Дом-музей Щепкина,museum,0.26242703537156026,1,10,https://www.openstreetmap.org/way/125674952,5/5 relevant results
+weekend_museum,Музей для посещения в выходные,enriched,5,node/3502941745,Музей-квартира А.М. Васнецова,museum,0.2613334149197728,1,10,https://www.openstreetmap.org/node/3502941745,5/5 relevant results
