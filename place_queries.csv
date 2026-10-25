@@ -1,0 +1,25 @@
+query_id,query,categories,semantics
+q01,Ламповое кафе где можно поработать с ноутбуком,cafe,work|cozy
+q02,Где зависнуть с ноутбуком и выпить кофе,cafe,work
+q03,Уютная кофейня для встречи с друзьями,cafe,friends|cozy
+q04,Куда зайти за кофе с утра,cafe,morning
+q05,Где поужинать компанией вечером,restaurant,friends|evening
+q06,Красивое место для свидания после работы,restaurant,date|evening
+q07,Хочу нормально поесть и пообщаться,restaurant,food|social
+q08,Куда пойти с детьми погулять,park,family|walk
+q09,Зелёное тихое место чтобы отдохнуть,park,nature|quiet
+q10,Хочу прогуляться в выходной,park,walk|weekend
+q11,Где спокойно почитать одному,library,quiet|alone
+q12,Тихое место чтобы поработать,library,work|quiet
+q13,Где найти книги и позаниматься,library,education
+q14,Куда всей семьёй в выходные узнать что-то новое,museum,family|weekend
+q15,Хочу посмотреть выставку и узнать новое,museum,culture|education
+q16,Спокойный музей для дневного посещения,museum,calm|day
+q17,Куда вдвоём на спектакль вечером,theatre,date|evening
+q18,Хочется сценического искусства и культурной программы,theatre,culture|entertainment
+q19,Куда с друзьями на вечерний сеанс,cinema,friends|evening
+q20,Кино для свидания вечером,cinema,date|evening
+q21,Хочу развлечься и посмотреть фильм,cinema,entertainment
+q22,Куда выбраться всей семьёй на выходных,park|museum,family|weekend
+q23,Спектакль или кино для вечера вдвоём,theatre|cinema,date|evening
+q24,Тихое помещение где можно посидеть с ноутбуком,cafe|library,work|indoor
